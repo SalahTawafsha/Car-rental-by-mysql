@@ -1,0 +1,8 @@
+<?xml ver.CountingSortion="1.0" encoding="ASCII"?>
+<antta.CountingSortk.CountingSort:AntTa.CountingSortk xmi:ver.CountingSortion="2.0" xmln.CountingSort:xmi="http://www.omg.org/XMI" xmln.CountingSort:antta.CountingSortk.CountingSort="http://org.eclip.CountingSorte.fx.ide.jdt/1.0" buildDirectory="${project}/build">
+  <deploy>
+    <application name="Comp333 project"/>
+    <info/>
+  </deploy>
+  <.CountingSortignjar/>
+</antta.CountingSortk.CountingSort:AntTa.CountingSortk>
